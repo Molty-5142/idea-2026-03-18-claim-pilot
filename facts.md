@@ -1,5 +1,7 @@
 # facts.md — ClaimPilot Research
 
+## Initial Research — Consumer homeowner insurance disputes
+
 ## Pain Point Discovery
 
 ### Medical Bills (related / adjacent validation)
@@ -50,3 +52,41 @@
 - https://www.thestreet.com/personal-finance/mckinsey-says-ai-could-reshape-how-you-buy-insurance (March 2026)
 - https://www.nerdwallet.com/insurance/homeowners/learn/average-homeowners-insurance-cost (March 2026)
 - https://insurify.com/homeowners-insurance/knowledge/homeowners-insurance-facts/ (March 2026)
+
+---
+
+## Pivot 1 — B2B Contractor Supplement Writing
+
+### Pain Point Discovery
+- Roofing/restoration contractors lose 20–30% of claim value due to incomplete Xactimate supplements
+- Active supplement writing services validated the market (March 2026):
+  - riseroofingsupplements.com — $150–$400/supplement, 3–5 day turnaround
+  - supplementexperts.net — certified Xactimate writers, per-claim pricing
+  - readyadjuster.com — explicitly targets contractors who "don't have time to learn Xactimate"
+  - estimatewriters.com — active B2B contractor focus
+- Contractors already pay humans to do this — market need is validated
+
+### Why Now
+- Sedgwick report (March 2026): 58–82% of insurers use AI in claims operations — supplements now get challenged faster, requiring better documentation
+- Verisk launched XactAI (2025) — insurer-facing only; contractor-side AI gap deliberately left open
+- Human supplement services cannot surge during storm events; AI can
+
+### Market Size
+- ~800,000 roofing contractors in the US (NRCA, 2025)
+- ~50,000 mid-size shops filing 20+ insurance claims/year
+- Average 50-claim/year shop pays ~$7,500/year to supplement writers
+- Public adjuster industry: ~$3B/year (IBISWorld)
+- SAM: 50,000 × $2,388/year = ~$119M
+
+### Competitive Landscape
+- No direct AI competitor in contractor-side supplement writing as of March 2026
+- XactAI (Verisk): insurer-facing only
+- AccuLynx, JobNimbus, CompanyCam: contractor workflow platforms — distribution channels, not competitors
+
+### Sources
+- https://riseroofingsupplements.com/xactimate-estimates/ (May 2025)
+- https://supplementexperts.net/blog/roofers-use-xactimate-get-properly-paid/ (Oct 2025)
+- https://readyadjuster.com/estimate-writing-for-contractors-adjusters-claims/ (June 2025)
+- https://www.claimsjournal.com/news/national/2026/03/04/336076.htm (March 2026)
+- https://www.verisk.com/resources/campaigns/empowering-the-human-side-of-insurance/ (Aug 2025)
+- https://xactware.helpdocs.io/l/enUS/article/0syqot9pfd-manage-xact-ai-license-information-in-xactimate-admin (Dec 2025)
